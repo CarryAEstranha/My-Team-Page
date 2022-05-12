@@ -17,7 +17,7 @@
 
 ### Links
 
-- Live Site URL: https://carryaestranha.github.io/404-Not-Found/
+- Live Site URL: https://carryaestranha.github.io/My-Team-Page/
 
 ## My process
 
